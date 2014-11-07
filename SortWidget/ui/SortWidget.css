@@ -1,0 +1,48 @@
+.sortWidget {
+}
+
+.SortWidget_sortable {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.SortWidget_sortable li {
+    margin: 0 3px 3px 3px;
+    padding: 0.3em 0.3em 0.3em 1.5em;
+    cursor:pointer;
+}
+
+.SortWidget_sortable li span {
+    position: absolute;
+    margin-left: -1.3em;
+}
+
+
+.sortWidget_item {
+    border: 1px solid #d3d3d3;
+    background:  rgb(238, 244, 245) 50%  50%  repeat-x ;
+    font-weight: normal;
+    color: #555555 ;
+    border-radius: 3px;
+}
+
+.sortWidget_icon {
+    display: block;
+    text-indent: -99999px;
+    overflow: hidden;
+    width: 16px;
+    height: 16px;
+    background: no-repeat url("SortWidget/ui/images/icons_888888_256x240.png") -128px -48px;
+}
+
+.widgetCriticalError {
+    color: red;
+    font-weight: bold;
+}
+
+.widgetNoData {
+
+}
+
