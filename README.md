@@ -1,4 +1,6 @@
-mxwidget-dragdropsort
-=====================
+Mendix Drag & Drop sorting widget
+=================================
 
-Mendix widget drag &amp; drop sort
+With this widget you can sort items in a list using drag & drop.
+
+The widget is not yet a finished product and therefor has not been published to the Mendix App Store.
